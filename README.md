@@ -6,7 +6,7 @@
 ![Build Passing](https://img.shields.io/badge/build-passing-success?style=flat-square)
 ![Swift](https://img.shields.io/badge/Swift-v5.7-orange?style=flat-square)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/alienx5499/Personal-Finance-Tracker/blob/main/CONTRIBUTING.md)
-[![License: MIT](https://custom-icon-badges.herokuapp.com/github/license/alienx5499/Personal-Finance-Tracker?logo=law&logoColor=white)](https://github.com/alienx5499/Personal-Finance-Tracker/blob/main/LICENSE)
+[![License: MIT](https://custom-icon-badges.herokuapp.com/github/license/alienX5499/Personal-Finance-Tracker?logo=law&logoColor=white)](https://github.com/alienx5499/Personal-Finance-Tracker/blob/main/LICENSE)
 ![Platform](https://img.shields.io/badge/platform-iOS-brightgreen?style=flat-square)
 ![Views](https://hits.dwyl.com/alienx5499/Personal-Finance-Tracker.svg)
 ![⭐ GitHub stars](https://img.shields.io/github/stars/alienx5499/Personal-Finance-Tracker?style=social)
